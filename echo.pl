@@ -1,5 +1,6 @@
 #!/usr/bin/perl
+use strict;
 
-print @ARGV;
+
 
 print "@ARGV\n";
